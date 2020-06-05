@@ -33,6 +33,8 @@ The **`<relationship>`** show how two entities inter-relate. Common keyboard cha
  ```mermaid
 erDiagram
 
+ first-entity ||--|{ second-entity : has
+
 ```
 
 [licence-cc-by]: https://creativecommons.org/licenses/by/4.0
