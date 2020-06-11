@@ -1,4 +1,8 @@
 # LLL-Ontology
+
 An ontology for life-long leadership development
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">This work  CC BY 4.0<a href="https://creativecommons.org/licenses/by/4.0"><img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /></a></p>
+This repository is licensed under [CC BY 4.0][licence-cc-by] ![cc](/assets/cc_icon-22px.svg) ![by](/assets/cc-by_icon-22px.svg)
+
+
+[licence-cc-by]: https://creativecommons.org/licenses/by/4.0
